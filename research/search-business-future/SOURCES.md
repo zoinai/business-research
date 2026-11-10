@@ -1,6 +1,6 @@
 # Sources and evidence register
 
-**Access date for every entry:** 10 November 2026. Dates below refer to publication, update, or the observation period as specified. “Living documentation” means a reliable original publication date was not established; the accessed version is the evidence.
+Dates below identify publication, updates, or the observation period. The shared evidence review date is recorded in the [methodology](METHOD.md). “Living documentation” means a reliable original publication date was not established; the version reviewed is the evidence.
 
 There are **45 source records**. Some records contain a closely related supporting page, so this is not a claim of 45 independent studies. Platform documentation establishes stated functionality and rules, not independent proof of business performance. Original observational studies and a preprint are identified separately. No third-party articles or datasets are reproduced in full.
 
@@ -110,7 +110,7 @@ There are **45 source records**. Some records contain a closely related supporti
 
 ## S27
 
-**OpenAI Help — Shopping with ChatGPT Search.** [Source](https://help.openai.com/en/articles/11128490-shopping-with-chatgpt-search). Living documentation; displayed as updated 11 days before access. Use: product selection versus ads. Limitation: company explanation, not an independent ranking audit.
+**OpenAI Help — Shopping with ChatGPT Search.** [Source](https://help.openai.com/en/articles/11128490-shopping-with-chatgpt-search). Living documentation; displayed as updated 11 days before the evidence review. Use: product selection versus ads. Limitation: company explanation, not an independent ranking audit.
 
 ## S28
 
@@ -122,7 +122,7 @@ There are **45 source records**. Some records contain a closely related supporti
 
 ## S30
 
-**Perplexity — Former merchant programme address.** [Address inspected](https://www.perplexity.ai/merchants) · [Observed destination](https://www.perplexity.ai/gen/computer/ecommerce/signin). Type: direct page observation on access date. Use: evidence that older onboarding advice cannot be assumed current. Limitation: a redirect does not prove programme closure or explain account-specific availability.
+**Perplexity — Former merchant programme address.** [Address inspected](https://www.perplexity.ai/merchants) · [Observed destination](https://www.perplexity.ai/gen/computer/ecommerce/signin). Type: direct page observation during the evidence review. Use: evidence that older onboarding advice cannot be assumed current. Limitation: a redirect does not prove programme closure or explain account-specific availability.
 
 ## S31
 
@@ -187,3 +187,4 @@ There are **45 source records**. Some records contain a closely related supporti
 ---
 
 [Read the book](BOOK.md) · [Review the research method](METHOD.md)
+

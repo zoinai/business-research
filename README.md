@@ -1,25 +1,25 @@
 # Business Research
 
-Zoin AI's repository for evidence-based business analysis and long-term research.
+Zoin AI's research on markets, business models, and long-term commercial change.
 
 ## Research library
 
-| Research | Scope | Evidence reviewed |
-|---|---|---|
-| [The Future of Business Through Search Engines](research/search-business-future/BOOK.md) | Google, Bing, AI discovery, customer acquisition, commerce, and scenarios through 2035 | 10 November 2026 |
+| Research | Scope |
+|---|---|
+| [The Future of Business Through Search Engines](research/search-business-future/BOOK.md) | Worldwide customer acquisition through Google, Bing, AI discovery, and commerce; scenarios through 2035 |
 
-## Start reading
+## Read the research
 
-- [Full research book](research/search-business-future/BOOK.md): findings, analysis, platform comparisons, and practical business playbooks.
-- [Sources and evidence](research/search-business-future/SOURCES.md): dated links, source types, and limitations.
-- [Research method and claim register](research/search-business-future/METHOD.md): how conclusions were assessed, conflicting evidence, and open questions.
-- [Execution workbook](research/search-business-future/WORKBOOK.md): reusable research, lead tracking, and experiment templates.
+- [Research book](research/search-business-future/BOOK.md): findings, platform comparisons, business playbooks, and long-term scenarios.
+- [Sources](research/search-business-future/SOURCES.md): original publications, documentation, and evidence limitations.
+- [Methodology and claim register](research/search-business-future/METHOD.md): research scope, conflicting evidence, and confidence assessments.
+- [Execution workbook](research/search-business-future/WORKBOOK.md): practical templates for research, lead measurement, and experiments.
 - [Change log](CHANGELOG.md).
 
-## Research conventions
+## Editorial approach
 
-**Evidence** describes what a cited source reports. **Analysis** is an interpretation. **Scenario** is a possible future. **Illustration** uses invented inputs to demonstrate a calculation. **Recommendation** is a proposed action to test.
+The research combines published evidence with analysis and practical recommendations. Source citations support factual findings; scenarios and numerical examples are identified where they appear. Geographic limits are stated so observations from one market are not presented as worldwide results.
 
-The research is a dated public-source synthesis, not a claim of exhaustive access to every market or proprietary dataset. Product availability and measurements must be rechecked before implementation.
+Source dates and the evidence review period are retained in the reference material. Product availability and market conditions should be checked when applying the findings.
 
-The existing [LICENSE](LICENSE) is retained. Linked third-party material remains subject to its original rights and terms; it is not relicensed by this repository.
+See [LICENSE](LICENSE). Linked third-party material remains subject to its original rights and terms.

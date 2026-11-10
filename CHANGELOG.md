@@ -1,10 +1,15 @@
 # Change log
 
-## 2026-11-10 — Search and business research, version 1.0
+## Revision 1.1 — Global scope and editorial refinement
 
-- Added a research book on the future of customer acquisition through traditional and AI search, with scenarios through 2035.
-- Included primary platform documentation, empirical studies, financial disclosures, and regulatory sources.
-- Added an evidence register, research limitations, Malayalam reading guide, and execution templates.
-- Replaced the initial repository description with a navigable research index.
+- Reframed the book for an international audience and expanded the market-entry chapter.
+- Replaced rupee-denominated illustrations with currency-neutral examples.
+- Removed links to the deleted language guide.
+- Simplified repetitive analytical labels and front-matter date headings.
+- Preserved source chronology, study periods, and the original evidence review date.
 
-This is a completed research edition. The refresh schedule in the book is a proposed maintenance process; no recurring automation has been created.
+## Revision 1.0 — Search and business research
+
+- Added the research book, source register, methodology, and execution templates.
+- Covered traditional and AI search, lead generation, business economics, regional differences, and scenarios through 2035.
+- Established a navigable research index.

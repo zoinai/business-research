@@ -1,16 +1,16 @@
 # Research method, claim register, and limitations
 
-**Edition:** 1.0 · **Research date:** 10 November 2026.
+The evidence was reviewed through **10 November 2026**. Subsequent editorial revisions broaden the framing and improve presentation without implying a new round of source verification.
 
 ## Research question
 
 How will businesses acquire customers through traditional and AI-assisted search over the next decade, and what should an operator do now without depending on unsupported forecasts?
 
-Subquestions covered distribution, buyer behaviour, lead quality, platform capabilities, local services, ecommerce, publishers, B2B, India, economics, regulation, and possible futures.
+Subquestions covered distribution, buyer behaviour, lead quality, platform capabilities, local services, ecommerce, publishers, B2B, regional market differences, economics, regulation, and possible futures.
 
 ## Method used
 
-This is a structured desk-research synthesis. Two web search systems were used for discovery and cross-checking; original platform pages, research-provider publications, company disclosures, and government records were opened where relevant. Source selection favoured current primary documents for technical claims and original studies for behavioural claims.
+This study synthesizes public-source research. Discovery and cross-checking covered original platform documentation, research-provider publications, company disclosures, and government records. Source selection favoured primary documents for technical claims and original studies for behavioural claims.
 
 The work followed three analytical passes:
 
@@ -39,7 +39,9 @@ These representative query families document the actual search approach; this is
 
 ## Evidence classification
 
-| Label | Meaning | How to use it |
+The following distinctions guide the analysis. They are expressed through citations, wording, and section context rather than repeated labels before each paragraph.
+
+| Category | Meaning | How to use it |
 |---|---|---|
 | Evidence | A cited source reports the observation or rule | Inspect source scope before applying |
 | Analysis | The author's interpretation of one or more observations | Challenge assumptions and alternatives |
@@ -57,7 +59,7 @@ Confidence refers to the narrow claim, not the authority of the entire document.
 | C02 | Platform search revenue can grow alongside referral pressure | S04–S08 | Strong compatibility of observations; not proof of a causal transfer |
 | C03 | AI summaries can reduce outbound clicks | S05, S06, S09 | Supported with differing designs; precise effect varies |
 | C04 | CTR decline need not continue monotonically | S07, S45 | Supported counterevidence; watch subsequent comparable cohorts |
-| C05 | AI referral quality can exceed other traffic in a particular sample | S08 | Strong for reported US retail observations; no India-wide extrapolation |
+| C05 | AI referral quality can exceed other traffic in a particular sample | S08 | Strong for reported US retail observations; no automatic extrapolation to other countries |
 | C06 | Ordinary search eligibility still matters in Google's AI features | S10, S11 | High for documented requirements; revise when documentation changes |
 | C07 | Google's AI visibility reporting is now separately documented | S13, S14 | High; does not imply complete click or conversion attribution |
 | C08 | Google's AI participation control is distinct from training choice | S12 | High for listed scope; verify before implementing |
@@ -91,7 +93,7 @@ Confidence refers to the narrow claim, not the authority of the entire document.
 
 ## Quantitative checks
 
-The report's business examples were checked arithmetically. The illustrative earlier funnel yields `10,000 × .02 × .40 × .20 = 16` customers; the alternative yields `6,000 × .03 × .60 × .20 = 21.6`. Multiplication by ₹5,000 gives ₹80,000 and ₹108,000 before acquisition. A 40% traffic fall requires approximately 1.667 times the conversion rate to preserve the same customer count, all else equal.
+The report's business examples were checked arithmetically. The illustrative earlier funnel yields `10,000 × .02 × .40 × .20 = 16` customers; the alternative yields `6,000 × .03 × .60 × .20 = 21.6`. Using the book's currency-neutral example, multiplication by CU 5,000 gives CU 80,000 and CU 108,000 before acquisition. A 40% traffic fall requires approximately 1.667 times the conversion rate to preserve the same customer count, all else equal.
 
 The source figures are attributed observations; the original private datasets were not independently reconstructed. Changes measured in percentage points are not interchangeable with relative percentage changes.
 
@@ -115,3 +117,4 @@ News and marketing summaries were used to discover some originals but were not s
 Reopen the relevant original source, record the access date and changed scope, update the affected claim, and explain the recommendation change in the change log. Retain a historical note when a major product or method changes. Seek new empirical evidence before changing the confidence of behavioural claims merely because a platform announces a feature.
 
 [Book](BOOK.md) · [Sources](SOURCES.md) · [Workbook](WORKBOOK.md)
+
