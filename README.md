@@ -11,7 +11,6 @@ Zoin AI's repository for evidence-based business analysis and long-term research
 ## Start reading
 
 - [Full research book](research/search-business-future/BOOK.md): findings, analysis, platform comparisons, and practical business playbooks.
-- [Malayalam reading guide](research/search-business-future/MALAYALAM.md): the main business implications in simple Malayalam.
 - [Sources and evidence](research/search-business-future/SOURCES.md): dated links, source types, and limitations.
 - [Research method and claim register](research/search-business-future/METHOD.md): how conclusions were assessed, conflicting evidence, and open questions.
 - [Execution workbook](research/search-business-future/WORKBOOK.md): reusable research, lead tracking, and experiment templates.
